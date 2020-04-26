@@ -1,0 +1,9 @@
+.vscode
+.idea
+__pycache
+*.pyc
+*.log
+config.ini
+venv
+env
+sketch
